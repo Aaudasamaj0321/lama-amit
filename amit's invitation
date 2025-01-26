@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+        
+   
+   
+    
+    .onwards {background-color:yellow;}
+    .Dj-Khaled{background-color: yellow;}
+    .Club-Ibiza {font-family: cursive;}
+    #Lord {font-family:monospace;}
+    .time {font-size:1.3em;}
+    #Co-sponsered-by {font-family:monospace;
+        font-size:1.3em;
+        font-style:italic;
+        font-weight:bold;
+        text-decoration:underline
+    }
+    #Sponsered-by {text-decoration:underline;
+    }
+    #Chief-Guest{text-decoration:Underline;}
+    #Organised-by {text-decoration:underline;}
+    #Ibiza {font-family:monospace;
+    font-size:2em;
+    font-style:Italic;
+    background-color:Red;
+        
+        
+        
+        
+    }
+    #LOD {font-family:monospace;
+        font-size:2em;
+        font-weight:bold;
+        font-style:italic;
+        background-color:red;
+        
+    }
+    .info {background-color:rgb(200,50,500);
+        width:75%;
+        height:100px;
+        overflow:auto;
+    }
+    .yes {color:pink;
+        
+    }
+    .yes {font-family:monospace;}
+    .yes {font-size:1.5em;}
+    .world {padding:10px;
+        
+        border:3px solid rgb(100,100,500)
+        
+    }
+    
+        </style>
+    </head>
+    <body>
+        
+        <h1><span class="yes">You're invited!</span></h1>
+        <h2 class="world">To the best club of the world</h2>
+        
+        <ul>
+        <li> <strong> <a href="#Club-Ibiza">Club Ibiza</a></strong>, 12th of August </li>
+        <li> <strong> <a href="#LOD">LOD</a></strong>, Kathmandu, Nepal</li>
+        </ul>
+        
+        <a><strong id="Ibiza">Club Ibiza</strong>.</a>
+        
+        <p><em><strong>The details:</strong></em></p>
+        <ul><div class="info">
+            <li class="Club-Ibiza">Starts after <strong>11:00pm</strong> <em
+            class="onwards">onwards</em>
+            </li>
+            <li>DJ by <strong class="Dj-Khaled">Dj Khaled</strong> and <strong>Steve Oke</strong></li>
+            <li>3Pint beer free on the <strong>Purchase</strong> of Tickets</li>
+            <li>No <strong>Slippers</strong> and Shorts allowed
+            <li>No Pets allowed</li>
+        </div>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th id="Co-sponsered-by">Co-sponsered by:</th>
+                    <th id="Sponsered-by">Sponsered by:</th>
+                    <th id="Chief-Guest">Chief Guest:</th>
+                    <th id="Organised-by">Organised by:</th>
+                </tr>
+                <td> Newyork Times
+                    TGIF 
+                    </td>
+                    <td>Club of London
+                    </td>
+                    <td>Justin Bieber
+                    </td>
+                    <td>Amit Club and Culture</td>
+                    
+            </thead>
+        </table>
+    
+        <p> <em><strong>for more info</strong></em>: <strong><em><a href="https://www.tiktok.com/@faithnorrell/video/7389791079584763167">Click here</a></em></strong></P>
+        
+        
+    </body>
+   <a id="LOD"><strong>LOD (Lord of Drinks)</strong></a>
+        <p><em><strong>The details:</strong></em></p>
+        <ul>
+        <div class="info">
+            <li id="Lord">Starts after <strong class="time">12:00pm</strong> 
+          <em class="onwards">onwards</em>
+            </li>
+            <li>DJ by<Strong> Dj AJ</strong> and <strong>Sabin Rai</strong></li>
+            <li>2 shots <strong>JD </strong>free on the <strong>Purchase</strong> of Tickets</li>
+            <li>No <strong>Slippers</strong> and Shorts allowed</li>
+            
+        </div>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th id="Co-sponsered-by">Co-sponsered by:</th>
+                    <th id="Sponsered-by">Sponsered by:</th>
+                    <th id="Chief-Guest">Chief Guest:</th>
+                    <th id="Organised-by">Organised by:</th>
+                </tr>
+                <td> Himalayan Times
+                
+                    </td>
+                    <td>Ncell
+                    </td>
+                    <td>Paras Shah
+                    </td>
+                    <td>Abc Ltd</td>
+                    
+            </thead>
+        </table>
+    
+        <p> <em><strong>for more info</strong></em>: <strong><em><a href="https://www.tripadvisor.co.uk/Restaurant_Review-g293890-d16935703-Reviews-LOD_Lord_Of_The_Drinks_Nepal-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Reg.html">Click here</a></em></strong></P>
+        
+        
+    
+   
+</html>
